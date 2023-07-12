@@ -13,8 +13,8 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Defining a Masterpiece
+subtitle: Art, Beauty, and Ethics
 reading_line:
 short_title:
 
@@ -46,15 +46,15 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: clee
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
+    first_name: Candice
+    last_name: Lee
+    title: Getty Marrow Undergraduate Intern
     affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Candice Lee is a 2023 Getty Marrow Undergraduate Intern for the Publications department at the Getty Center. She is a rising junior pursuing a joint BA/MA in Philosophy, Politics, and Law (BA) and Philosophy and Law (MA)."
+    url: 
+    image: contributors/candice-lee.jpeg
 
 # ------------------------------------------------------------------------------
 # Copright & License
