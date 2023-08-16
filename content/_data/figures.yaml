@@ -1,4 +1,9 @@
 figure_list:
+  
+  - id: "fig-1"
+    src: figures/van-gogh-irises.jpg
+    caption: "Van Gogh. *Irises*, 1889."
+    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "lange"
     src: figures/lange.jpg
@@ -9,12 +14,6 @@ figure_list:
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
     credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "fig-2"
     label: "Figure 2"
