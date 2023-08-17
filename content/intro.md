@@ -1,21 +1,22 @@
 ---
 title: Introduction
-subtitle: A Tale of Two Photographers
+subtitle: Market Value or Moral Virtue
 layout: splash
 order: 10
-image: figures/lange-house.jpg
+image: figures/manet-spring.jpg
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+If you’ve ever visited the Getty Center, you’ve likely wandered into the West Pavilion, where never-ending crowds have become a defining feature of the gallery. Knowing what it holds, it’s not hard to see why. The Impressionist room hosts some of the Getty’s most famous and expensive works, including masterpieces like Van Gogh’s *Irises* (last sold for $53.9 million) and Manet’s *Jeanne (Spring)* (acquired for $65.1 million).[^1] As the art market continues to skyrocket, the intrinsic value of art comes into question. When we visit galleries filled with multi-million-dollar acquisitions, what are we really admiring? Has market value become conflated with moral virtue?
 
-{% figure 'lange' 'is-pulled-right' %}
+{% figure 'fig-1' 'is-pulled-right' %}
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration. During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+In this publication, I will examine the complex interplay between art, aesthetics, and ethics, evaluating the capacity of prominent western ethical theories for defining what truly constitutes a “good” piece of art. From Aristotle’s virtue ethics to Kant’s moral realism, we will test the relevance of each ethical framework in a modern context.
 
-{% figure 'evans' 'is-pulled-left' %}
 
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm aecurity Administration (FSA), documenting workers and architecture in the Southeastern states. In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
+{% backmatter %}
 
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
+## Notes
 
-{% figure "audio-1" %}
+[^1]: Craig Nakano. "Getty breaks record with $65.1-million purchase of Manet’s ‘Spring,'" *Los Angeles Times*, November 5, 2014, https://www.latimes.com/entertainment/arts/culture/la-et-cm-getty-manet-spring-auction-record-20141105-story.html.
+
+{% endbackmatter %}
